@@ -139,5 +139,5 @@ me.say_hi()
 
 <div align="center">
   <p>Made with ❤️ by Yogendra</p>
-  <p>Last Updated: August 2023</p>
+  <p>Last Updated: August 2025</p>
 </div>
