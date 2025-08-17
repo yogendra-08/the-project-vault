@@ -1,0 +1,117 @@
+# 🚀 Flagship / Featured Projects
+
+## VaultHub
+AI-powered document vault built with Next.js, Firebase, and Google GenKit.
+
+## medisafe-health-locker
+AI-powered health record locker, winner of SIH 2025.
+
+## Pathfinder-AI-sih1781
+Career guidance system using AI, academic profile, and interests.
+
+## RezoomAI
+AI resume analyzer and improvement suggestion tool.
+
+## rajya-bazaar
+A Next.js + TypeScript e-commerce platform promoting Maratha heritage.
+
+# 🤖 AI & Data-Driven Apps
+
+## ai_assistant
+Voice + text AI assistant built with Flask and Gemini API.
+
+## smart-expense-tracker
+A modern React + TypeScript expense tracker with visual analytics and planning.
+
+## smart-farming-dashboard
+Smart dashboard for farmers monitoring soil, irrigation, and crop data.
+
+## RezoomAI
+AI resume analyzer and improvement suggestion tool.
+
+## eventplanner
+Event management platform with AI-based content generation.
+
+# 🏥 Hackathon & HealthTech Projects
+
+## medisafe_pro-V2
+Full-stack health document management system with secure storage and reminders.
+
+## healthbridge_portal
+Role-based patient portal for clinics; includes booking and prescriptions.
+
+## mediqueue-sih1620-opd-management
+OPD queuing system managing bed availability and patient admission.
+
+## saarthi-app
+Accessibility-focused app helping differently-abled users find facilities.
+
+## saarthi-PWA
+PWA version of Saarthi with map integration and Firebase.
+
+# 🌐 Web & Full-Stack Projects
+
+## My-Portfolio (Private)
+Developer portfolio built with Next.js and Tailwind CSS.
+
+## LocalBill-GST-Invoice-Maker
+GST invoice generator with batch processing and CSV export.
+
+## mini-ecommerce
+Flask-based e-commerce site with cart, checkout, and admin features.
+
+## campusconnect
+Django-based college management system with CRUD features.
+
+## mini-portfolio-generator-flask
+Flask-based app to create and edit portfolio websites.
+
+# 🎮 Games & Creative Projects
+
+## Chasing-Curves
+A browser game with infinite road curves, day-night cycles, and smooth controls using HTML, CSS, and JS.
+
+## python-tkinter-projects
+GUI projects using Python's Tkinter library.
+
+## tkinter-calculator
+Simple calculator GUI using Python Tkinter.
+
+# 📚 Learning & Utility Projects
+
+## weatherwise
+Web app providing live weather updates and forecasts. Hackathon project.
+
+## WeatherWise-2.0
+Forked weather app with added AI features and emergency tips.
+
+## quiz-app
+Python quiz application with multiple-choice questions.
+
+## feedback-form-flask
+Web feedback form built with Flask and MySQL.
+
+## complaint-management-system
+Flask-based student complaint management system.
+
+## c-mini-project
+Collection of C mini-projects covering DSA and concepts.
+
+## student-management
+Console-based C++ student record manager using file handling.
+
+## web-development-projects
+HTML5 + CSS3 web design projects showcasing frontend skills.
+
+## yogendra-08
+Personal dev repo for working with Python, Flask, Firebase.
+
+## python-mini-projects
+Python mini-projects across data analysis, automation, GUI, etc.
+
+## database-projects
+SQL-based projects demonstrating database design and queries.
+
+## cpp-mini-project
+cpp-mini-project
+C++ mini-projects using OOP, STL, and algorithms.
