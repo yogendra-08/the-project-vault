@@ -66,3 +66,15 @@
   <p>✨ Thank you for visiting! Feel free to explore the repositories and reach out for collaboration. ✨</p>
   <p>Made with ❤️ by Yogendra</p>
 </div>
+
+### 📊 GitHub Stats
+![Yogendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&theme=radical)
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=yogendra-08&theme=onedark)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogendra-08&theme=radical)
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra-08&layout=compact&theme=radical)
